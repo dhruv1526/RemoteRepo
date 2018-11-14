@@ -10,5 +10,8 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "This is Changed File" );
+        private int a=6,b=4,c;
+        c=a+b;
+        System.out.println("Addition:" +c);
     }
 }
